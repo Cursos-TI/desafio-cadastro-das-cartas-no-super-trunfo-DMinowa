@@ -26,8 +26,5 @@ int main() {
     printf("Área: %.2f km²\n", area);
     printf("PIB: %.2f bi\n", pib);
     printf("Nº de Pontos Turísticos: %d\n", pontosturisticos);
-    
-    // Exibição final da carta
-    printf("Carta")
     return 0;
 }
